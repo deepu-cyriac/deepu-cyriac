@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: <a href="https://www.linkedin.com/in/deepu-cyriac-380573160">Linkedin</a><br>
  ⚡ Github Stats<br>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepu-cyriac)](https://github.com/anuraghazra/github-readme-stats)<br>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepu-cyriac&count_private=true)
