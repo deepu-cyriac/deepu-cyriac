@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 💬 How to reach me: <a href="deepucvk123@gmail.com">deepucvk123@gmail.com</a><br>
 📫 Connect with me: <a href="https://www.linkedin.com/in/deepu-cyriac-380573160">LinkedIn</a><br>
-😄 Website: <a href="https://deepu-cyriac.github.io/" target="_blank">Portfolio Website</a><br>
+😄 Website: <a href="https://deepu-cyriac.github.io/" target="__blank">Portfolio Website</a><br>
