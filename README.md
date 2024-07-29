@@ -1,7 +1,7 @@
 <h3>Hi there 👋, I'm Deepu Cyriac</h3>
 <ul>
 <li>🔭 I’m currently working on building applications using Next.js and MongoDB.</li>
-<li>🌱 I’m currently learning Next.js, React, MongoDB and Postgresql.</li>
+<li>🌱 I’m currently learning Next.js, React.js, MongoDB and Postgresql.</li>
 <li>💬 Ask me about - Next.js | React.js | MongoDB | Node.js | Express.js | Postgresql</li>
 <li>💻 Major projects I have worked on -<br> 
   <ul>
