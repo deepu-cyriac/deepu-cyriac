@@ -18,4 +18,6 @@
 <li>😄 Website - <a href="https://deepu-cyriac.github.io/" target="__blank">Portfolio Website</a></li>
 </ul>
 <br><br>
+```md
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepu-cyriac&layout=compact)
+```
