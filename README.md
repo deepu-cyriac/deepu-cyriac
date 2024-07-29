@@ -17,4 +17,5 @@
 <li>💬 How to reach me - <a href="deepucvk123@gmail.com">deepucvk123@gmail.com</a></li>
 <li>😄 Website - <a href="https://deepu-cyriac.github.io/" target="__blank">Portfolio Website</a></li>
 </ul>
-
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepu-cyriac&layout=compact)
