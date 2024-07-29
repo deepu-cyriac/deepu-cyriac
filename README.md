@@ -2,7 +2,7 @@
 <ul>
 <li>🔭 I’m currently working on building applications using Next.js and MongoDB.</li>
 <li>🌱 I’m currently learning Next.js, React.js, MongoDB and Postgresql.</li>
-<li>💬 Ask me about - Next.js | React.js | MongoDB | Node.js | Express.js | Postgresql</li>
+<li>💬 Ask me about - Next.js | React.js | React Native | MongoDB | Node.js | Express.js | Postgresql</li>
 <li>💻 Major projects I have worked on -<br> 
   <ul>
     <li>Chat bot development using Node.js and Microsoft Bot Framework SDK</li>
