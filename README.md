@@ -7,6 +7,7 @@
   <ul>
     <li>Chat bot development using Node.js and Microsoft Bot Framework SDK</li>
     <li>Ecommerce application development using React.js, GraphQL and PWA technologies</li>
+    <li>A React Native mobile application to find information about latest movies</li>
     <li>Product informational website using Drupal</li>
     <li>A driver drowsiness detection and prevention application using Django and Twilio API</li>
     <li>A virtual classroom application built using Node.js and Express.js</li>
